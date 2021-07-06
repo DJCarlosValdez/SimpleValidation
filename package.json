@@ -1,0 +1,14 @@
+{
+  "name": "simplevalidation",
+  "version": "0.0.1",
+  "description": "Function that will validate data against the desired validations.",
+  "homepage": "https://github.com/DJCarlosValdez/SimpleValidation#readme",
+  "main": "simplevalidation.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DJCarlosValdez/SimpleValidation.git"
+  },
+  "keywords": ["validation", "validator"],
+  "author": "Barney Rubble <c.valdez_v@icloud.com> (https://github.com/DJCarlosValdez)",
+  "license": "MIT"
+}
